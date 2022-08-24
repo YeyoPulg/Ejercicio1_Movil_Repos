@@ -1,0 +1,12 @@
+C:\U_WorkShop\C#\Desarrollo Móvil\Ejercicio1_Móvil\obj\Debug\Ejercicio1_Móvil.csproj.AssemblyReference.cache
+C:\U_WorkShop\C#\Desarrollo Móvil\Ejercicio1_Móvil\obj\Debug\Ejercicio1_Móvil.csproj.SuggestedBindingRedirects.cache
+C:\U_WorkShop\C#\Desarrollo Móvil\Ejercicio1_Móvil\obj\Debug\Ejercicio1_Móvil.pnlLogin.resources
+C:\U_WorkShop\C#\Desarrollo Móvil\Ejercicio1_Móvil\obj\Debug\Ejercicio1_Móvil.Properties.Resources.resources
+C:\U_WorkShop\C#\Desarrollo Móvil\Ejercicio1_Móvil\obj\Debug\Ejercicio1_Móvil.csproj.GenerateResource.cache
+C:\U_WorkShop\C#\Desarrollo Móvil\Ejercicio1_Móvil\obj\Debug\Ejercicio1_Móvil.csproj.CoreCompileInputs.cache
+C:\U_WorkShop\C#\Desarrollo Móvil\Ejercicio1_Móvil\bin\Debug\Ejercicio1_Móvil.exe.config
+C:\U_WorkShop\C#\Desarrollo Móvil\Ejercicio1_Móvil\bin\Debug\Ejercicio1_Móvil.exe
+C:\U_WorkShop\C#\Desarrollo Móvil\Ejercicio1_Móvil\bin\Debug\Ejercicio1_Móvil.pdb
+C:\U_WorkShop\C#\Desarrollo Móvil\Ejercicio1_Móvil\obj\Debug\Ejercicio1_Móvil.exe
+C:\U_WorkShop\C#\Desarrollo Móvil\Ejercicio1_Móvil\obj\Debug\Ejercicio1_Móvil.pdb
+C:\U_WorkShop\C#\Desarrollo Móvil\Ejercicio1_Móvil\obj\Debug\Ejercicio1_Móvil.pnlFunciones.resources
